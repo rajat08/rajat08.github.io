@@ -6,19 +6,7 @@ title: About Me
 <center><h2><a href="https://linktr.ee/rajat08" target="_blank">Contact</a></h2></center>
 
 
-Hello there ! My name is Rajat & I am currently a grad student studying AI at Boston University.
+Hello there ! My name is Rajat & I am currently an ML solutions engineer at <a href="https://www.pinecone.io/" target="_blank">Pinecone</a>, where we are trying to build a vector database for ML. 
 
-I like all tech stuff but mostly ML. I have worked on NLP , vision an plenty of other cross domain ML projects, hence within ML, I do not restrict myself to any specific subset of tasks. I enjoy reading about anything data related even if I don't always practice it myself.
+Apart from ML (& tech) I love reading about anthropology and history. I'm a big soccer fan and have been a die hard Liverpool fan since I was a kid. I play a lot of video games mostly RPGs. Despite my indoor hobbies, I do try to step out as much as possible, workout as often as I can, lie on the grass every once in a while and play some soccer.
 
-When I'm not being a computer nerd,I just shift on to being a history,anthropology & philosophy nerd. I read a lot and I love talking (lots) about any topic under the sun. I'm a big soccer fan and have been a die hard Liverpool fan since I was a kid. 
-
-I would also probably use the adjective 'gamer' to describe myself. I mostly play RPGs. I've been playing guitar since school and have a wall full of Led Zeppelin posters. 
-
-
-**EDIT**
-
-If you are reading this , you have found me at a time when I am job hunting. So if you know about an awesome ML engineer or Data Scientist opening I would love to talk to you. 
-
-You can have a look at my <a href="/assets/files/resume.pdf" download target="_blank">resume</a>, and if you like it please find me via LinkedIn,Email,Twitter whatever you medium you may prefer.
-
-Thanks!
